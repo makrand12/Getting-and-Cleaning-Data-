@@ -503,5 +503,5 @@ write.table(Data2, file = "tidydata.txt",row.name=FALSE)
 
 #Prouduce Codebook
 library(knitr)
-knit2html("CodeBook.Rmd");
+knit2html("CodeBook.md");
 
